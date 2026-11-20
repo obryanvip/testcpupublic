@@ -1023,3 +1023,9 @@ Worst
 9.22
 Average
 
+
+-------------------------colab en su defensadigo que es rapido-----------------
+<img width="756" height="491" alt="image" src="https://github.com/user-attachments/assets/04f01f47-504f-47f4-8285-8693e2ef30c4" />
+<img width="870" height="480" alt="image" src="https://github.com/user-attachments/assets/e4c38e04-1671-4dd0-8fbe-ed7a90712477" />
+
+
