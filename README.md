@@ -253,6 +253,8 @@ Perf-Dashboard/Render	46.20	±	3.77 (8.2%)	ms
 Perf-Dashboard/SelectingPoints	93.77	±	15.60 (16.6%)	ms
 Perf-Dashboard/SelectingRange	56.88	±	9.24 (16.2%)	ms
  -----------------------------i3-----------------
+<img width="1306" height="541" alt="image" src="https://github.com/user-attachments/assets/e7fe36db-52e0-4197-a81d-a40ae4fcd051" />
+
 <img width="1305" height="633" alt="image" src="https://github.com/user-attachments/assets/1b64ccf7-97f0-41e4-bbc6-147091e3b4d9" />
 
 <img width="1293" height="610" alt="image" src="https://github.com/user-attachments/assets/390d0703-b01a-4cc8-9686-f7da34230fdd" />
