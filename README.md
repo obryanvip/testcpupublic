@@ -1031,3 +1031,4 @@ Average
 --------------------------------i7 4770-----------------------------------------------
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/b84829c4-2ced-4b38-8797-969058540b8e" />
 
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/60438ab8-c571-43bd-a64a-d0e79eb616ad" />
